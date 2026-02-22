@@ -1,0 +1,29 @@
+.timer-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.time-box {
+    text-align: center;
+    width: 90px;
+}
+
+.number {
+font-size: 5rem;
+  font-weight: lighter;
+  font-family: 'Nokora',Open Sans, sans-serif;
+}
+
+.label {
+margin-top: 6px;
+  font-size: 1rem;
+  color: #000;
+  text-transform: lowercase;
+}
+
+.colon {
+font-size: 5rem;
+  font-weight: lighter;
+  margin-top: -37px;
+}

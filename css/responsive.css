@@ -1,0 +1,550 @@
+
+@media only screen and (max-width: 1259px) {
+
+.mn {
+	min-width: 90%;
+    max-width: 73%;
+}
+
+.sec_4{
+	min-width: 100%;
+    max-width: 100%;	
+}
+
+.map_box iframe {
+  width: 100%;
+}
+}
+
+@media only screen and (max-width: 1204px) {
+
+}
+
+
+
+
+@media only screen and (max-width: 1175px) {
+.txr_rsvp {
+  width: 50%;
+}	
+
+.cont {
+  width: 46%;
+}
+
+}
+
+
+@media only screen and (max-width: 1071px) {
+
+.pc_ls {
+  width: 353px;
+}
+
+.pic_sld {
+  width: 337px;
+}
+	
+}
+
+
+@media only screen and (max-width: 1050px) {
+.pco {
+  width: 348px;
+}	
+    .cont {
+      width: 46%;
+    }
+	
+.aco {
+  margin: 0rem 0rem 3rem 0rem;
+}
+
+}
+
+
+@media only screen and (max-width: 1003px) {
+.tx_bx {
+  padding: 11rem 6rem;
+}	
+
+
+
+}
+
+@media only screen and (max-width: 918px) {
+	
+.date{
+  width: 43%;
+}
+}
+
+@media only screen and (max-width: 905px) {
+
+   .date{
+      width: 100%;
+      float: none;
+      text-align: center;
+    }
+
+	.count{
+	width: auto;
+      float: none;
+      margin-top: 4rem;
+    }
+
+.loc {
+  padding-right: 4rem;
+  margin-top: 2rem;
+}
+   .pc_ls {
+      width: 302px;
+    }
+.sld_bx {
+  margin-top: -6rem;
+}	
+
+.tx_2 {
+  width: 41%;
+  margin-top: 4rem;
+}	
+}
+
+
+@media only screen and (max-width: 895px) {
+
+.pic_cont {
+  display: none;
+}
+
+    .cont {
+      width: auto;
+      text-align: center;
+    }
+
+.tl_cont {
+  text-align: center;
+}
+
+.box_cot{
+background-image: linear-gradient( to bottom, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.4) 35%, rgba(255, 255, 255, 0.7) 65%, rgb(255, 255, 255) 100% ), url("../images/Rectangle19m.png");
+    padding: 7rem 0;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+}
+
+   .tx_bx {
+      padding: 8rem 3rem;
+      width: auto;
+      text-align: center;
+    }
+
+.tl_prl {
+  text-align: center;
+}
+.tx_ftr p {
+  width: 80%;
+}
+
+  .loc {
+    float: none;
+    width: 90%;
+    text-align: center;
+    margin: 0;
+    padding: 0 3rem;
+  }
+
+.tl_loc {
+  text-align: center;
+}
+
+  .map_loc {
+    width: 100%;
+    margin-top: 4rem;
+  }
+
+.sec_2 {
+  padding-bottom: 0;
+}
+
+.sec_3 {
+  max-width: 100%;
+  padding: 0;
+    margin-top: 7rem;
+  }
+  
+  .map_box iframe {
+    height: 279px;
+  }  
+}
+
+@media only screen and (max-width: 831px) {
+    .txr_rsvp {
+      width: 40%;
+    }
+	
+.rsvp {
+  float: right;
+  padding-top: 2rem;
+}
+    .box_cot {
+      margin-top: 8rem;
+    }
+	
+.sec_5 {
+  padding: 0rem 3rem;
+}
+}
+
+@media only screen and (max-width: 811px) {
+
+   .tx_2 {
+      width: 49%;
+      margin-top: 0rem;
+      float: right;
+    }
+
+  .sld_bx {
+      width: 40%;
+    }
+  .pic_sld {
+      width: 100%;
+    }
+	
+.pc_1 {
+  width: 48%;
+}
+    .pc_ls {
+      width: 100%;
+    }
+
+
+.timer-wrapper {
+  background: #0A0D0E;
+  color: #fff;
+  border-radius: 12px;
+  padding: 17px;
+}	
+
+.label {
+  margin-top: 0;
+  color: #fff;
+}
+}
+
+
+@media only screen and (max-width: 797px) {
+.tx_1 {
+  width: 42%;
+}
+}
+
+
+@media only screen and (max-width: 735px) {
+.tl_1 {
+  font-size: 2.5rem;
+}
+}
+
+@media only screen and (max-width: 713px) {
+.wl,.spls {
+  font-size: 4rem;
+}
+.tgls {
+  top: -2.4rem;
+}
+.banner {
+  background-attachment: inherit;
+  background-position: center;
+  background-size: auto;
+}
+
+.tl_2, .tl_loc, .tl_prl, .tl_cont {
+  font-size: 22px;
+}
+
+.arw_rsvp {
+  left: 2rem;
+}
+  .txr_rsvp {
+    width: auto;
+  }
+
+  .rsvp {
+    float: none;
+  } 
+.bx_rsvp {
+  margin-right: 5rem;
+} 
+
+ .txr_rsvp {
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 630px) {
+
+.pic_sld{
+	display:none;
+}
+
+  .pic_sld2 {
+    display: block;
+    width: 100%;
+  }
+
+ .pc_1 {
+    display: none;
+  }
+  
+   .tx_1 {
+    width: auto;
+    text-align: center;
+  }
+
+  .tl_1 {
+    text-align: center;
+  }
+
+.tl_ftr {
+  font-size: 3rem;
+}
+
+  .tx_2 {
+    width: auto;
+    margin-top: 0rem;
+    float: none;
+    text-align: center;
+  }
+.tl_2 {
+  text-align: center;
+}
+
+.sec_1 {
+  margin-top: 1rem;
+}
+.prlx {
+  margin-bottom: 0rem;
+}
+
+  .txr_rsvp {
+    margin-top: 5rem;
+  }
+}
+
+@media only screen and (max-width: 578px) {
+
+.number, .colon {
+  font-size: 3rem;
+}
+.time-box {
+  width: 20%;
+}
+.colon {
+  margin-top: -32px;
+}
+
+.label {
+  font-size: 13px;
+}
+
+}
+
+@media only screen and (max-width: 557px) {
+ .bx_rsvp {
+    margin-right: 4rem;
+  }	
+
+  .rsvp {
+    margin-top: 27px;
+  }  
+
+}
+
+@media only screen and (max-width: 540px) {
+  .bx_rsvp {
+    margin-right: 0rem;
+  }
+
+.nav-right {
+  right: 37px;
+}  
+
+}
+
+
+@media only screen and (max-width: 469px) {
+.rsvp {
+    margin-top: 27px;
+    margin-right: 0rem;
+    width: 100%;
+    margin-left: -7rem;
+  }
+ 
+ .arw_rsvp {
+    left: 5rem;
+  } 
+   .bx_rsvp {
+    margin-right: -7rem;
+  } 
+}
+
+
+@media only screen and (max-width: 464px) {
+.tl_dt {
+  font-size: 34px;
+}
+
+.sdlt {
+  font-size: 37px;
+}
+}
+
+@media only screen and (max-width: 430px) {
+.aml {
+  top: -126px;
+    right: 0rem;
+}
+
+  .hd_tl_bx {
+    position: relative;
+    top: 8rem;
+  }
+  .tgls {
+   top: -4.4rem;
+    font-size: 17px;
+  }
+}
+
+@media only screen and (max-width: 423px) {
+	
+  .sec_2 {
+    max-width: 100%;
+    min-width: 100%;
+    padding: 0;
+  }
+
+  .date {
+    width: 90%;
+    margin-top: 4rem;
+  }
+  
+}
+
+@media only screen and (max-width: 386px) {
+
+  .rsvp {
+    margin-left: -11rem;
+  }
+}
+
+@media only screen and (max-width: 344px) {
+  .arw_rsvp {
+    display: none;
+  }
+
+  .rsvp {
+    margin-left: 0;
+    display: block;
+    text-align: center;
+  }
+  
+  .bx_rsvp {
+    margin-right: 0;
+  }
+
+  .bx_rsvp {
+    margin-right: 0;
+    margin-top: 2rem;
+  }
+  
+ .bx_rsvp:hover {
+
+  }
+
+ .bx_rsvp:hover {
+    background: #000;
+  }
+
+ .bx_rsvp:hover .tx_rsvp{
+    color: #fff;
+  }
+
+}
+
+@media only screen and (max-width: 318px) {
+
+.head_nav {
+  min-width: 80% !important;
+}
+
+  .mn {
+    min-width: 100%;
+  }
+ 
+ .tl_1 {
+    font-size: 2rem;
+  }
+ 
+  .tl_dt {
+    font-size: 27px;
+  }
+   .sdlt {
+    font-size: 29px;
+  }
+   .number, .colon {
+    font-size: 2rem;
+  } 
+   .label {
+    font-size: 10px;
+  }
+  .tl_2, .tl_loc, .tl_prl, .tl_cont {
+    font-size: 20px;
+  }
+  
+ }
+
+
+@media only screen and (max-width: 267px) {
+  .cont {
+    width: 100%;
+  }	
+ .box_cot {
+    background-size: cover;
+  }
+
+  .tgls {
+    top: -4.4rem;
+    font-size: 17px;
+    letter-spacing: 3px;
+  }
+.tx_ftr {
+  padding: 10rem 2rem;
+}
+
+  .tl_ftr {
+    font-size: 2rem;
+  }
+ 
+.bx_ftr {
+  background-size: cover;
+}
+  .hd_tl_bx {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 229px) {
+.spls {
+  display: none;
+}
+
+  .hd_tl_bx {
+    width: auto;
+    padding: 0 1rem;
+  }
+    .tgls {
+    letter-spacing: 0px;
+  }
+
+}

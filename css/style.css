@@ -1,0 +1,513 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+body {
+font-family: 'Nokora',Open Sans, sans-serif;
+margin: 0;
+background-color: #fff;
+
+
+}
+
+a{
+text-decoration:none;	
+}
+
+p{
+color:#1D1A19;
+font-family: 'Nokora', Open Sans, sans-serif;
+font-size:15px;
+line-height: 29px;
+}
+
+.clr{
+	clear:both;
+}
+
+h1, h2, h3, h4, h5{
+	color: #0A0D0E;
+}
+
+section {
+
+}
+
+article{
+	
+}
+
+picture{
+	
+}
+
+footer{
+	
+}
+
+.mn{  
+max-width: 1221px;
+  min-width: 1150px;
+}
+
+.cls{
+	clear:both;
+}
+
+
+/* nav */
+
+.head_nav {
+  position: relative;
+  z-index: 5;
+}
+
+.lgo{
+	float: left;
+}
+
+.lgo_pic{
+width: 50px;	
+}
+
+
+
+/* end nav */
+
+
+
+/* banner */
+.banner{
+position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+  background-image: url("../images/banner2.png");
+  padding: 2rem 0;
+}
+
+.hd_tl{
+    align-items: center;
+margin: 6% auto;
+  text-align: center;
+  position: relative;
+}
+
+.wl{
+font-family: "La Belle Aurore", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+  font-size: 6rem;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.8);
+  display: inline-block;
+}
+
+.wls{
+	
+}
+
+.spls{
+position: relative;
+  top: 24px;
+  font-size: 8rem;
+  right: 5px;
+}
+
+.aml{
+position: relative;
+  top: 49px;
+  right: 2rem;
+}
+
+.tgls{
+position: relative;
+  top: -8rem;
+  font-weight: normal;
+  font-family: 'Nokora',Open Sans, sans-serif;
+  color: #fff;
+  text-transform: capitalize;
+  letter-spacing: 5px;
+  font-size: 23px;	
+}
+
+
+/* end banner*/
+
+
+/* section 1*/
+
+.sec_1{
+padding: 2rem 3rem;
+  margin-top: 6rem;
+}
+
+.tx_1, .pc_1{
+display: inline-block;
+  width: 49%;
+}
+
+.tx_1{
+float: left;
+  text-align: left;
+}
+
+.tl_1{
+font-family: "La Belle Aurore", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;	
+}
+
+.pc_1{
+float: right;
+  text-align: right;
+}
+
+.pc_ls{
+	width: 400px;
+}
+
+.sld_bx, .tx_2{
+	display: inline-block;
+}
+
+.sld_bx{
+float: left;
+  margin-top: -15rem;
+}
+
+.pic_sld{
+	width: 405px;
+}
+
+.pic_sld2{
+display:none;
+}
+
+.tx_2{
+text-align: left;
+  width: 42%;
+  margin-top: 4rem;
+}
+
+.tl_2{
+font-family: 'Nokora',Open Sans, sans-serif;
+  text-align: left;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 25px;	
+}
+
+
+/* end section 1*/
+
+
+/* section 2*/
+
+.sec_2{
+	padding: 8rem 3rem;
+}
+
+.svd{
+	
+}
+
+.date, .count{
+width: 49%;
+  display: inline-block;
+}
+
+.date{
+float: left;
+  text-align: left;	
+}
+
+.tl_dt{
+width: 100%;
+  font-family: 'Nokora',Open Sans, sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 43px;
+  margin: auto;
+}
+
+.sdlt{
+font-family: 'Nokora',Open Sans, sans-serif;
+  font-size: 3rem;
+  margin: auto;
+  letter-spacing: 1px;
+  padding-top: 7px;
+  font-weight: bold;
+}
+
+.count{
+float: right;
+  width: auto;
+  margin-top: -0.5rem;	
+}
+
+
+
+
+/* end section 2*/
+
+
+/* section 3*/
+
+.sec_3{
+padding: 8rem 3rem;	
+}
+
+.loc, .map_loc{
+display: inline-block;
+  width: 50%;
+}
+
+
+.loc{
+float: left;
+  width: 50%;
+  text-align: left;
+  padding-right: 7rem;
+  margin-top: 5rem;
+}
+
+.tl_loc{
+font-family: 'Nokora',Open Sans, sans-serif;
+  text-align: left;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 25px;	
+}
+
+.map_loc{
+	width: 50%;
+}
+
+.map_box{
+	
+}
+
+.map_box iframe {
+filter: grayscale(100%) contrast(120%);
+  width: 557px;
+  height: 407px;
+}
+
+
+
+
+/* end section 3*/
+
+
+
+/* section 4*/
+
+.sec_4{
+text-align: left;
+  min-width: 1150px;
+  max-width: 100%;
+}
+
+
+.prlx{
+	margin-bottom: 8rem;
+background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100%;
+  background-image: url("../images/Rectangle17m.png");
+}
+
+.tx_bx{
+  text-align: left;
+  width: 50%;
+    background:
+        linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0%,      /* Layer 1: atas transparan */
+    rgba(0, 0, 0, 0.25) 30%,  /* Layer 2: mulai gelap */
+    rgba(0, 0, 0, 0.6) 65%,   /* Layer 3: lebih gelap */
+    rgba(0, 0, 0, 0.9) 100% 
+        );
+    background-size: cover;
+    background-position: center;
+  padding: 11rem 8rem;
+}
+
+.tl_prl, .sec_4 p{
+	color:#FFFFFF;
+}
+
+
+.tl_prl{
+	font-family: 'Nokora',Open Sans, sans-serif;
+  text-align: left;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 25px;	
+}
+ 
+/* end section 4*/
+
+
+/* section 5*/
+
+.sec_5{
+padding: 6rem 3rem;
+  margin-bottom: 5rem;
+}
+
+.txr_rsvp, .rsvp{
+display: inline-block;
+  text-align: left;	
+}
+
+.txr_rsvp{
+	float: left;
+}
+
+.rsvp{
+	
+}
+
+.arw_rsvp{
+width: 200px;
+  position: relative;
+  top: 15px;
+  left: 2rem;	
+}
+
+.bx_rsvp{
+border: 1px solid #000;
+  border-radius: 191px;
+  display: inline-block;
+  padding: 1rem;
+  width: 122px;
+  height: 122px;
+  text-align: center;
+}
+
+.tx_rsvp{
+display: grid;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Nokora',Open Sans, sans-serif;
+  margin: auto;
+  padding: 0;
+    padding-top: 0px;
+    padding-left: 0px;
+  font-size: 2rem;
+  font-weight: normal;
+  letter-spacing: 11px;
+  padding-left: 15px;
+  padding-top: 5px;
+}
+
+
+/* end section 5*/
+
+
+
+/* section 6*/
+
+.sec_6{
+padding: 2rem 3rem;
+  text-align: left;
+  margin-bottom: 10rem;
+}
+
+.pic_cont, .cont{
+display: inline-block;
+}
+
+.pic_cont{
+	
+}
+
+.pco{
+	width: 400px;
+}
+
+.cont {
+  width: 53%;
+  float: right;
+}
+
+.aco{
+	margin: 6rem auto;
+}
+
+.tl_cont{
+font-family: 'Nokora',Open Sans, sans-serif;
+  text-align: left;
+  font-weight: normal;
+  text-transform: uppercase;
+  font-size: 25px;	
+}
+
+.cont_pic{
+	
+}
+
+.contact{
+	
+}
+
+.sp_co{
+padding: 0;
+  line-height: 12px;
+  font-weight: bold;	
+}
+ 
+
+/* end section 6*/
+
+
+/* footer */
+
+.bx_ftr{
+background-image: url(../images/Rectangle20.png);
+  padding: 2rem 0;
+  background-position: center;
+}
+
+.tx_ftr{
+padding: 10rem 0;
+}
+
+.tx_ftr p{
+color: #fff;
+  width: 46%;
+}
+
+.tl_ftr{
+font-family: "La Belle Aurore", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 4rem;
+  color: #fff;
+  margin: auto;
+}
+
+.footer{
+	
+}
+
+.footer p{
+color: #fff;
+  font-size: 12px;	
+}
+
+
+/* end footer */
